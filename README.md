@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there, I'm SAKTHIVISHNU - aka VishnuJin 👋
 
-<!--
-**VishnuJin/VishnuJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Quality Engineer, @Cognizant!!
+🔭 I'm experienced in Automation teting using UFT and I also write Python
+🌱 I’m currently learning Rust & WebAssembly 😇
+🧑🏻‍💻 I’m Open to work
+🥅 2021 Goals: Contribute more to Open Source projects
+⚡ Fun fact: I love bike rides and play video games
 
-Here are some ideas to get you started:
+Connect with me:
+VishnuJin | LinkedInVishnuJin | TwitterVishnuJin | Gmail
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Languages and Tools:
+[Visual Studio Code] [UFT] [ALM] [Python] [JavaScript] [React] [Python] [Node.js] [SQL] [HTML5] [Git] [GitHub] [Terminal]
