@@ -2,7 +2,7 @@
 
 <br />
 
-## I'm a Quality Engineer, @Cognizant!!
+## I'm a Quality Engineer, @Robert Bosch!!
 
 - 🔭 I'm experienced in Automation teting using UFT and I also write Python
 - 🌱 I’m currently learning Rust & WebAssembly 😇
