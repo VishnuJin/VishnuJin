@@ -4,9 +4,8 @@
 
 ## I'm a Quality Engineer, @Robert Bosch!!
 
-- 🔭 I'm experienced in Automation teting using UFT and I also write Python
-- 🌱 I’m currently learning Rust & WebAssembly 😇
-- 🧑🏻‍💻 I’m Open to work
+- 🔭 Automation engineer & Pythonista
+- 🌱 Currently learning Rust & WebAssembly 😇
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love bike rides and play video games
 
