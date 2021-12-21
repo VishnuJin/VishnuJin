@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="VishnuJin | LinkedIn" width="22px" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkeding" />][linkedin]
+[<img align="left" alt="VishnuJin | LinkedIn" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="VishnuJin | Twitter" width="22px" src="https://img.icons8.com/color/50/000000/twitter--v2.png" />][twitter]
 [<img align="left" alt="VishnuJin | Gmail" width="22px" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" />][gmail]
 
