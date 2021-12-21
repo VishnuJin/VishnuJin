@@ -38,6 +38,6 @@
 <br />
 
 
-[gmail]: artharpain143@gmail.com
+[gmail]: mailto:artharpain143@gmail.com
 [twitter]: https://twitter.com/vishnu_jin
-[linkedin]: www.linkedin.com/in/vishnujin
+[linkedin]: https://linkedin.com/in/vishnujin
