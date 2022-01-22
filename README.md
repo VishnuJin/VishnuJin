@@ -5,9 +5,10 @@
 ## I'm a Quality Engineer, @Robert Bosch!!
 
 - 🔭 Automation engineer & Pythonista
+- 🧑🏻‍💻 Contributor to [Deno](https://github.com/denoland/deno) 🦕 & [Krustlet](https://github.com/krustlet/krustlet)
 - 🌱 Currently learning Rust & WebAssembly 😇
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love bike rides and play video games
+- ⚡ Fun fact: I love bike rides, watching movies and play video games
 
 
 ### Connect with me:
