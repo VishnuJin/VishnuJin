@@ -2,7 +2,7 @@
 
 <br />
 
-## I'm a Quality Engineer, @Robert Bosch!!
+## I'm a Sr Engineer, @Robert Bosch!!
 
 - 🔭 Automation engineer & Pythonista
 - 🧑🏻‍💻 Contributor to [Deno](https://github.com/denoland/deno) 🦕 , [Bindle](https://github.com/deislabs/bindle) & [Krustlet](https://github.com/krustlet/krustlet)
