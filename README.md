@@ -7,7 +7,7 @@
 - 🔭 Automation engineer & Pythonista
 - 🧑🏻‍💻 Contributor to [Deno](https://github.com/denoland/deno) 🦕 , [Bindle](https://github.com/deislabs/bindle) & [Krustlet](https://github.com/krustlet/krustlet)
 - 🌱 Currently learning Rust & WebAssembly 😇
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love bike rides, watching movies and play video games
 
 
