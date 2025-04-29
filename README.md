@@ -2,7 +2,7 @@
 
 <br />
 
-## I'm a Sr Engineer, @Robert Bosch!!
+## I'm a Lead Software Engineer, @Robert Bosch!!
 
 - 🔭 Automation engineer & DotNet dev & Pythonista
 - 🧑🏻‍💻 Contributor to [Deno](https://github.com/denoland/deno) 🦕 , [Bindle](https://github.com/deislabs/bindle) & [Krustlet](https://github.com/krustlet/krustlet)
@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
 
-
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/31ea1181d4a76262931a39ca68e0203774a69b60/topics/csharp/csharp.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Rust" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
